@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dishonored"
+        android:icon="@drawable/one"
+        android:title="@string/dishonored"/>
+    <item
+        android:id="@+id/warframe"
+        android:icon="@drawable/two"
+        android:title="@string/warframe"/>
+    <item
+        android:id="@+id/skyrim"
+        android:icon="@drawable/three"
+        android:title="@string/skyrim" />
+</menu>
